@@ -14,6 +14,6 @@ python test.py
 ```
 
 ##Training code
-``Train code
+```Train code
 python train.py
 ```
