@@ -3,6 +3,7 @@ Jupyter notebook for Machine learning tutorial
 
 
 ## Uses tensorflow model for detection. Model is save in .h5 file.
+## This model replicates the equation y=3x-2
 
 ### Used a sequential model with only one neuron of a dense layer.
 
