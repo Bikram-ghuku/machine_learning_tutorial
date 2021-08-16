@@ -1,4 +1,4 @@
-# machine_learning_tutorial
+# Machine_learning_tutorial
 Jupyter notebook for Machine learning tutorial
 
 
@@ -13,7 +13,7 @@ Jupyter notebook for Machine learning tutorial
 python test.py
 ```
 
-##Training code
+## Training code
 ```Train code
 python train.py
 ```
