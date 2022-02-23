@@ -1,4 +1,3 @@
-from re import X
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 
